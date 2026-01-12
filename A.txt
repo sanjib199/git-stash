@@ -1,6 +1,12 @@
+<<<<<<< Updated upstream
 token no: 02
 subject: Bug fixing
 type: urgent
+=======
+Token no : 01
+subject : SMS Generation
+type: not urgent
+>>>>>>> Stashed changes
 
 
 Name: Sanjib Basak
